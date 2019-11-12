@@ -79,7 +79,7 @@ body{
 }
 
 #home{
-  background:url("../media/home.png");
+  background:url("media/home.png");
   margin-top:96px;
   background-size:cover;
 }
@@ -108,7 +108,7 @@ body{
 }
 
 #contact{
-  background:url("../media/contact.png") #f1f4fd;
+  background:url("media/contact.png") #f1f4fd;
 }
 
 #contact .text{
